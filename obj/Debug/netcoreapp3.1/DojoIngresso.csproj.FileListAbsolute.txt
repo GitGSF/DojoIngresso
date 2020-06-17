@@ -1,0 +1,13 @@
+C:\Users\Dark_Cheedar\Desktop\DojoIngresso\bin\Debug\netcoreapp3.1\DojoIngresso.exe
+C:\Users\Dark_Cheedar\Desktop\DojoIngresso\bin\Debug\netcoreapp3.1\DojoIngresso.deps.json
+C:\Users\Dark_Cheedar\Desktop\DojoIngresso\bin\Debug\netcoreapp3.1\DojoIngresso.runtimeconfig.json
+C:\Users\Dark_Cheedar\Desktop\DojoIngresso\bin\Debug\netcoreapp3.1\DojoIngresso.runtimeconfig.dev.json
+C:\Users\Dark_Cheedar\Desktop\DojoIngresso\bin\Debug\netcoreapp3.1\DojoIngresso.dll
+C:\Users\Dark_Cheedar\Desktop\DojoIngresso\bin\Debug\netcoreapp3.1\DojoIngresso.pdb
+C:\Users\Dark_Cheedar\Desktop\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.csprojAssemblyReference.cache
+C:\Users\Dark_Cheedar\Desktop\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.AssemblyInfoInputs.cache
+C:\Users\Dark_Cheedar\Desktop\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.AssemblyInfo.cs
+C:\Users\Dark_Cheedar\Desktop\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.csproj.CoreCompileInputs.cache
+C:\Users\Dark_Cheedar\Desktop\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.dll
+C:\Users\Dark_Cheedar\Desktop\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.pdb
+C:\Users\Dark_Cheedar\Desktop\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.genruntimeconfig.cache
